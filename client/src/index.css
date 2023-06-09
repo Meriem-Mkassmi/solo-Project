@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.container{display: flex;margin-left: 50px;}
+.button{border:3px solid black ;box-shadow: 5px 5px 10px black}
+.log{display: flex;justify-content: center;}
+.espace{margin-top: 25px;margin-left: 30px;}
+.titre{margin-right:1000px;}
+.b{text-decoration: none;border:3px solid black ;box-shadow: 5px 5px 10px black;padding-left:10px;padding-right: 10px;}
+.dash{display: flex;} 
+.add{margin-left: 600px;}
+.tabl{margin-top: 80px;margin-right: 500px;}
+.detail{border:3px solid black ;width: 350px;height: 250px;margin-left:400x;display: flex;flex-direction: column;align-items: flex-start;}
+.body_container{width:1100px ;margin-left: 100px;}
+.addto{margin-right:950px;font-size: 20px;margin-top: 20px; color: rgb(88, 88, 212);}
+.T{margin-right:1050px;}
+.L{color: rgb(88, 88, 212);}
+.P{margin-right: 900px;}
+.edii{margin-right: 700px; margin-top: 50px;}
+.edi{margin-right: 800px; }
+.table{display:flex;flex-direction: column;justify-content: flex-start;}
+.tit{margin-right: 1200px;}
+.dis{display: inline-block;}
+.lo{display: flex;}
+.diss{margin-top: 27px;margin-left: 1000px; color: rgb(88, 88, 211);font-size: 20px;}
+.di{margin-left:15px;color: rgb(88, 88, 212)}
+.row {
+  display: table-row;
+}
+
+.cell {
+  display: table-cell;
+  padding: 5px;
+  border: 4px solid black;
+}
+.cel{  display: table-cell;
+  padding: 5px;
+  
+  border-top: 4px solid black;margin: 20px;border-left: 4px solid black;font-weight: bold;}
+  .cel1{  display: table-cell;
+    padding: 5px;
+    border-top: 4px solid black;margin: 20px;font-weight: bold;}
+    .cel2{  display: table-cell;
+      padding: 5px;
+      border-top: 4px solid black;margin: 20px;border-right: 4px solid black;font-weight: bold;}
+.cell3{display: table-cell;
+   padding-left:35px;padding-right:35px; 
+  border: 4px solid black;}
